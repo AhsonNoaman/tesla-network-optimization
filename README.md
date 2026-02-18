@@ -49,4 +49,4 @@ This project utilizes a **Python-to-Tableau** workflow to perform geospatial ana
 **Ahson Noaman**
 [LinkedIn](https://www.linkedin.com/in/ahson-noaman) | [Email](mailto:ahsonnoaman@gmail.com)
 
-*Project created for the Tesla Business Intelligence Internship application (Fall 2026).*
+
