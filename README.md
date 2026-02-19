@@ -2,7 +2,8 @@
 
 ### *A Geospatial Capacity Planning Model using Python & Tableau*
 
-<img width="880" height="559" alt="Screenshot 2026-02-18 at 4 06 15 PM" src="https://github.com/user-attachments/assets/af454737-8d1f-46ca-a284-d9810f328f38" />
+<img width="1050" height="568" alt="Screenshot 2026-02-18 at 9 33 45 PM" src="https://github.com/user-attachments/assets/5d0896ec-0626-4bb4-94fb-035909704f50" />
+
 
 <img width="880" height="559" alt="Screenshot 2026-02-18 at 4 06 15 PM" src="https://github.com/user-attachments/assets/baa299c3-2229-46fc-8c7f-d8fe9f6eddb0" />
 
