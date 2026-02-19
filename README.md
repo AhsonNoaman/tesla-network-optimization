@@ -5,9 +5,6 @@
 <img width="1050" height="568" alt="Screenshot 2026-02-18 at 9 33 45 PM" src="https://github.com/user-attachments/assets/5d0896ec-0626-4bb4-94fb-035909704f50" />
 
 
-<img width="880" height="559" alt="Screenshot 2026-02-18 at 4 06 15 PM" src="https://github.com/user-attachments/assets/baa299c3-2229-46fc-8c7f-d8fe9f6eddb0" />
-
-
 ## 📌 Executive Summary
 As Tesla's fleet scales in Canada, the service network must evolve from "Urban Density" coverage to "Destination Support." This project answers the question: **"Where is the most underserved high-value market in Ontario?"**
 
